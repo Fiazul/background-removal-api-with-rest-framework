@@ -25,4 +25,4 @@ This project provides an API for removing the background from an image and repla
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/background-removal-api-with-rest-framework.git
-   cd 
+   cd background-removal-api-with-rest-framework
