@@ -26,6 +26,16 @@ This project provides an API for removing the background from an image and repla
    ```bash
    git clone https://github.com/your-username/background-removal-api-with-rest-framework.git
    cd background-removal-api-with-rest-framework
+
+   The backgrounds for the images processed by this API can be:
+- RGB colors
+- Another image
+- Prompt-generated content
+- No background (transparent)
+- Solid white background
+
+Here are examples of images with different background settings:
+
 ![Image 1](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image1.jpg)
 
 ![Image 2](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image2.jpg)
