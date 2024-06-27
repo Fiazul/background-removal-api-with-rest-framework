@@ -26,3 +26,6 @@ This project provides an API for removing the background from an image and repla
    ```bash
    git clone https://github.com/your-username/background-removal-api-with-rest-framework.git
    cd background-removal-api-with-rest-framework
+![Image 1](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image1.jpg)
+
+![Image 2](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image2.jpg)
