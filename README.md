@@ -35,7 +35,10 @@ This project provides an API for removing the background from an image and repla
 - Solid white background
 
 Here are examples of images with different background settings:
-
+image background..
 ![Image 1](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image1.jpg)
 
+background generated via prompt..
 ![Image 2](https://raw.githubusercontent.com/Fiazul/background-removal-api-with-rest-framework/master/image2.jpg)
+
+
